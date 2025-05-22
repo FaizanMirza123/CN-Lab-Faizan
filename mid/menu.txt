@@ -1,0 +1,3 @@
+pizza 40
+pasta 1
+burger 0
