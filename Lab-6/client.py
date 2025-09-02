@@ -19,7 +19,7 @@ def main():
 
     except Exception as e:
         print(f"An error occurred: {e}")
-    
+        
     finally:
         # Close the socket
         sock.close()
